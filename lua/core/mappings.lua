@@ -31,6 +31,8 @@ M.general = {
     -- save
     ["<C-s>"] = { "<cmd> w <CR>", "save file" },
 
+    -- custom bindings
+
     -- Copy all
     ["<C-c>"] = { "<cmd> %y+ <CR>", "copy whole file" },
 

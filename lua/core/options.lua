@@ -17,6 +17,7 @@ end
 opt.laststatus = 3 -- global statusline
 opt.showmode = false
 
+
 opt.title = true
 opt.clipboard = "unnamedplus"
 opt.cul = true -- cursor line

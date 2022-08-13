@@ -215,6 +215,11 @@ local plugins = {
 
   -- Speed up deffered plugins
   ["lewis6991/impatient.nvim"] = {},
+
+  --custom plugins
+  ["haishanh/night-owl.vim"] = {},
+  ["frenzyexists/aquarium-vim"] = {},
+  ["Everblush/everblush.vim"] = {}
 }
 
 require("core.packer").run(plugins)
